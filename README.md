@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👨‍💻 Muhammad Ahmed
 
-<!--
-**mussadiqahmed/mussadiqahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BS (Computer Science)**  
+`Date of Birth:` 16/03/2003  
+📞 `Phone:` +92 320 4308025  
+📧 `Emails:`  
+- f219295@cfd.nu.edu.pk  
+- mussadiqahmed90@gmail.com  
+🏠 `Address:` 340A3 DHA Rahbar, Sector 3, Phase 11, Lahore  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ahmed-mussadiq/)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+
+- **BS (Computer Science)** – FAST NUCES, Chiniot-Faisalabad Campus _(2021–2025)_  
+- **ICS** – Punjab College _(2021)_
+
+---
+
+## 💼 Projects & Portfolio
+
+### ✅ AWMS – Academic Workload Management System
+> Final Year Project: A web-based platform for students and staff to manage academic tasks with real-time dynamic timetables, avoiding overlapping deadlines.
+
+### 💬 Chatbot-Style Android App (React Native)
+> Fiverr project featuring a conversational UI for form-filling, FAQs, and support.
+
+### 📊 Inventory & Operations Management App
+> Desktop app for managing inventory, orders, and production processes for an international client.
+
+### 🌐 International Beauty Salon Web App
+> Responsive web application developed during internship.
+
+### 👕 Virtual Try-On (3D Modeling)
+> Lets users try clothes virtually using 3D human models.
+
+---
+
+## 🏆 Activities & Achievements
+
+- 👨‍💼 Internship at Zeikh Technologies  
+- 💼 Freelancer on Fiverr & LinkedIn  
+- 🎭 Vice President – Dramocrats Society  
+
+---
+
+## 🧰 Skills & Tools
+
+### Programming
+`Next.js` `React.js` `Node.js` `React Native`  
+`PHP` `Python` `C++` `SQL`
+
+### Tools
+`VS Code` `Android Studio` `Git`  
+`Figma` `Canva`  
+`MongoDB` `PostgreSQL`
+
+---
+
+## 💡 Interests & Hobbies
+
+- 🛠 Embedded & Arduino/ESP Projects  
+- 🤖 Robotics  
+- 🌐 IoT-based systems
+
+---
+
+_Thanks for visiting! Feel free to connect or collaborate!_
+
