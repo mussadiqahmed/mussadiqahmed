@@ -3,9 +3,7 @@
 **BS (Computer Science)**  
 `Date of Birth:` 16/03/2003  
 📞 `Phone:` +92 320 4308025  
-📧 `Emails:`  
-- f219295@cfd.nu.edu.pk  
-- mussadiqahmed90@gmail.com  
+📧 `Emails:`mussadiqahmed90@gmail.com  
 🏠 `Address:` 340A3 DHA Rahbar, Sector 3, Phase 11, Lahore  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ahmed-mussadiq/)  
 
@@ -13,8 +11,8 @@
 
 ## 🎓 Education
 
-- **BS (Computer Science)** – FAST NUCES, Chiniot-Faisalabad Campus _(2021–2025)_  
-- **ICS** – Punjab College _(2021)_
+- **BS (Computer Science)** – FAST National University _(2021–2025)_  
+- **ICS** – Punjab College _(2019)_(2021)
 
 ---
 
