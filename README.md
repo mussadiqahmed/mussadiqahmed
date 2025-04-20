@@ -3,8 +3,8 @@
 **BS (Computer Science)**  
 `Date of Birth:` 16/03/2003  
 📞 `Phone:` +92 320 4308025  
-📧 `Emails:`mussadiqahmed90@gmail.com  
-🏠 `Address:` 340A3 DHA Rahbar, Sector 3, Phase 11, Lahore  
+📧 `Emails:` mussadiqahmed90@gmail.com  
+🏠 `Address:` DHA Phase 11, Lahore Pakistan  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ahmed-mussadiq/)  
 
 ---
